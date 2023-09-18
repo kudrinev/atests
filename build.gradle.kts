@@ -16,6 +16,7 @@ dependencies {
     testImplementation("org.junit.jupiter:junit-jupiter-api:5.10.0")
     testImplementation("org.junit.jupiter:junit-jupiter-engine:5.10.0")
     testImplementation("junit:junit:4.13.2")
+    testImplementation("org.assertj:assertj-core:3.6.1")
     implementation("com.codeborne:selenide:6.18.0")
 }
 
