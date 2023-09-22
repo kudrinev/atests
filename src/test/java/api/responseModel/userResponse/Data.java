@@ -33,23 +33,4 @@ public class Data{
     @JsonProperty("email")
     private String email;
 
-    public String getLastName(){
-        return lastName;
-    }
-
-    public Integer getId(){
-        return id;
-    }
-
-    public String getAvatar(){
-        return avatar;
-    }
-
-    public String getFirstName(){
-        return firstName;
-    }
-
-    public String getEmail(){
-        return email;
-    }
 }
